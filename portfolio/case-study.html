@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Case Study - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        .case-content {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 2rem;
+            box-shadow: var(--shadow);
+            max-width: 900px;
+            margin: 0 auto;
+            line-height: 1.8;
+        }
+        .case-content h1 {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+        }
+        .case-content h2 {
+            font-size: 1.375rem;
+            margin: 1.75rem 0 0.875rem;
+            color: var(--primary);
+        }
+        .case-content h3 {
+            font-size: 1.125rem;
+            margin: 1.5rem 0 0.75rem;
+        }
+        .case-content p {
+            color: var(--text-secondary);
+            margin-bottom: 1rem;
+        }
+        .case-content ul, .case-content ol {
+            color: var(--text-secondary);
+            margin-left: 1.5rem;
+            margin-bottom: 1rem;
+        }
+        .case-content li {
+            margin-bottom: 0.5rem;
+        }
+        .back-link {
+            display: inline-block;
+            color: var(--primary);
+            text-decoration: none;
+            margin-bottom: 1.5rem;
+            font-weight: 500;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <nav class="nav">
+        <div class="nav-container">
+            <div class="nav-logo">OB</div>
+            <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">🌓</button>
+        </div>
+    </nav>
+
+    <header class="hero" style="padding: 2.5rem 0 2rem;">
+        <div class="container">
+            <a href="index.html" class="back-link">← Back to Portfolio</a>
+            <h1 class="hero-title" id="pageTitle">Case Study</h1>
+        </div>
+    </header>
+
+    <section class="section" style="padding-top: 0;">
+        <div class="container">
+            <div id="caseContent" class="case-content"></div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2026 Oussama Boughanem</p>
+        </div>
+    </footer>
+
+    <script src="case-study.js"></script>
+</body>
+</html>

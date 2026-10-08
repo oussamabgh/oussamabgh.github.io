@@ -1,0 +1,88 @@
+{
+  "Frontend/Mobile": [
+    {
+      "name": "Flutter/Dart",
+      "projects": 3,
+      "evidence": 3
+    }
+  ],
+  "Backend/API": [
+    {
+      "name": "Node.js/TypeScript",
+      "projects": 3,
+      "evidence": 3
+    },
+    {
+      "name": "Express.js",
+      "projects": 1,
+      "evidence": 1
+    },
+    {
+      "name": "FastAPI",
+      "projects": 1,
+      "evidence": 1
+    },
+    {
+      "name": "Python",
+      "projects": 8,
+      "evidence": 8
+    },
+    {
+      "name": "Flask",
+      "projects": 1,
+      "evidence": 1
+    },
+    {
+      "name": "Socket.IO",
+      "projects": 5,
+      "evidence": 5
+    }
+  ],
+  "Blockchain/Solana": [
+    {
+      "name": "Solana Web3.js",
+      "projects": 2,
+      "evidence": 2
+    },
+    {
+      "name": "Solana (Rust)",
+      "projects": 1,
+      "evidence": 1
+    },
+    {
+      "name": "Rust",
+      "projects": 2,
+      "evidence": 2
+    }
+  ],
+  "Real-time/Data": [
+    {
+      "name": "WebSocket",
+      "projects": 1,
+      "evidence": 1
+    },
+    {
+      "name": "TypeScript",
+      "projects": 1,
+      "evidence": 1
+    }
+  ],
+  "Languages": [
+    {
+      "name": "Python",
+      "projects": 8,
+      "evidence": 8
+    },
+    {
+      "name": "TypeScript",
+      "projects": 1,
+      "evidence": 1
+    },
+    {
+      "name": "Rust",
+      "projects": 2,
+      "evidence": 2
+    }
+  ],
+  "Other": []
+}
