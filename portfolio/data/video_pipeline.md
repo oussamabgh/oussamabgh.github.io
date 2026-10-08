@@ -1,9 +1,9 @@
 # video_pipeline
 
-**Pitch:** Developer project: video pipeline
+**Pitch:** Automated AI video generation pipeline with rendering and assembly
 **Problem:** Solves domain-specific engineering/build challenges in this project space.
 
-**Tech Stack:** Python, Socket.IO
+**Tech Stack:** Python, FFmpeg, Video Processing, Automation, JSON
 **Architecture:** Modular code organization with separation of concerns (services/controllers/blocs as present).
 
 ## Technical Highlights

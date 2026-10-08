@@ -1,9 +1,9 @@
 # devnet_backend
 
-**Pitch:** Real-time backend API service with WebSocket support
+**Pitch:** Real-time backend for Solana devnet event streaming via WebSocket
 **Problem:** Solves domain-specific engineering/build challenges in this project space.
 
-**Tech Stack:** Python, FastAPI, Socket.IO
+**Tech Stack:** Python, FastAPI, Socket.IO, WebSocket, Uvicorn
 **Architecture:** Modular code organization with separation of concerns (services/controllers/blocs as present).
 
 ## Technical Highlights

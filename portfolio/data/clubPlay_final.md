@@ -1,9 +1,9 @@
 # clubPlay_final
 
-**Pitch:** Developer project: clubPlay final
-**Problem:** Solves domain-specific engineering/build challenges in this project space.
+**Pitch:** Social/club app with real-time voice rooms, chat, and social features
+**Problem:** Enables users to join voice rooms, interact socially, and manage profiles with real-time updates
 
-**Tech Stack:** Flutter/Dart, Python
+**Tech Stack:** Flutter/Dart, Firebase, Agora RTC, BLoC, Riverpod, Cloud Firestore
 **Architecture:** Modular code organization with separation of concerns (services/controllers/blocs as present).
 
 ## Technical Highlights

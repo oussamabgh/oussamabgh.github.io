@@ -1,9 +1,9 @@
 # share_ride
 
-**Pitch:** Developer project: share ride
+**Pitch:** Ride sharing app built with Flutter
 **Problem:** Solves domain-specific engineering/build challenges in this project space.
 
-**Tech Stack:** Flutter/Dart, Python
+**Tech Stack:** Flutter/Dart
 **Architecture:** Modular code organization with separation of concerns (services/controllers/blocs as present).
 
 ## Technical Highlights

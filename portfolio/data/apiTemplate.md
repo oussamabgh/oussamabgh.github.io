@@ -1,9 +1,9 @@
 # apiTemplate
 
-**Pitch:** Developer project: apiTemplate
+**Pitch:** Production-ready Node.js/Express API template with auth and validation
 **Problem:** Solves domain-specific engineering/build challenges in this project space.
 
-**Tech Stack:** Node.js/TypeScript, Express.js
+**Tech Stack:** Node.js, Express.js, PostgreSQL, JWT, Joi, Morgan
 **Architecture:** Modular code organization with separation of concerns (services/controllers/blocs as present).
 
 ## Technical Highlights

@@ -1,9 +1,9 @@
 # pumpfun_sniper_bot
 
-**Pitch:** Solana blockchain tooling/trading analysis system
+**Pitch:** High-performance Solana Pump.fun sniping bot written in Rust
 **Problem:** Solves domain-specific engineering/build challenges in this project space.
 
-**Tech Stack:** Node.js/TypeScript, Solana Web3.js, Rust, Solana (Rust)
+**Tech Stack:** Rust, Solana, Tokio, Async/Await
 **Architecture:** Modular code organization with separation of concerns (services/controllers/blocs as present).
 
 ## Technical Highlights

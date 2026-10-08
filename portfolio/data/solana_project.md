@@ -1,9 +1,9 @@
 # solana_project
 
-**Pitch:** Developer project: solana project
+**Pitch:** Solana blockchain analysis and forensics toolkit
 **Problem:** Solves domain-specific engineering/build challenges in this project space.
 
-**Tech Stack:** Python, Socket.IO
+**Tech Stack:** Python, Solana, Data Analysis, Pandas/CSV Processing
 **Architecture:** Modular code organization with separation of concerns (services/controllers/blocs as present).
 
 ## Technical Highlights

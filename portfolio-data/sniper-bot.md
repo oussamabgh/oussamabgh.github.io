@@ -1,9 +1,9 @@
 # sniper-bot
 
-**Pitch:** Developer project: sniper-bot
+**Pitch:** Solana trading/sniper bot with analysis and monitoring tools
 **Problem:** Solves domain-specific engineering/build challenges in this project space.
 
-**Tech Stack:** Python, Flask, Socket.IO, Rust
+**Tech Stack:** Python, Solana, Trading Bot, Data Analysis, Socket.IO
 **Architecture:** Modular code organization with separation of concerns (services/controllers/blocs as present).
 
 ## Technical Highlights

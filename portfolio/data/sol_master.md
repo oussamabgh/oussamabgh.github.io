@@ -1,9 +1,9 @@
 # sol_master
 
-**Pitch:** Developer project: sol master
+**Pitch:** Solana automation and wallet management tooling
 **Problem:** Solves domain-specific engineering/build challenges in this project space.
 
-**Tech Stack:** Python, Socket.IO
+**Tech Stack:** TypeScript, Node.js, Solana Web3.js
 **Architecture:** Modular code organization with separation of concerns (services/controllers/blocs as present).
 
 ## Technical Highlights

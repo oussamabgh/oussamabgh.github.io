@@ -1,9 +1,9 @@
 # token-runner-tracker
 
-**Pitch:** Solana blockchain tooling/trading analysis system
+**Pitch:** Real-time token tracking system for Solana Pump.fun ecosystem
 **Problem:** Solves domain-specific engineering/build challenges in this project space.
 
-**Tech Stack:** Node.js/TypeScript, Solana Web3.js, WebSocket, TypeScript
+**Tech Stack:** TypeScript, Node.js, Solana Web3.js, SQLite, WebSocket
 **Architecture:** Modular code organization with separation of concerns (services/controllers/blocs as present).
 
 ## Technical Highlights
